@@ -1,5 +1,5 @@
-#!name=rixCloud URL Rewrite/DNS Mapping
-#!desc=Enable this module to use rixCloud URL Rewrite and Local DNS mapping rules. 
+#!name=rixCloud URL Rewrite
+#!desc=Enable this module to use rixCloud URL Rewrite rules. 
 
 [URL Rewrite]
 # AbeamTV Unlock
