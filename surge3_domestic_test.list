@@ -62,6 +62,7 @@ DOMAIN-SUFFIX,livechina.com
 DOMAIN-SUFFIX,didialift.com
 DOMAIN-SUFFIX,didiglobal.com
 DOMAIN-SUFFIX,udache.com
+USER-AGENT,*OneTravel*
 # > ChinaTelecom
 DOMAIN-SUFFIX,21cn.com
 # > HunanTV
