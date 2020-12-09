@@ -147,6 +147,11 @@ DOMAIN-SUFFIX,tencent-cloud.net
 DOMAIN-SUFFIX,tenpay.com
 DOMAIN-SUFFIX,wechat.com
 DOMAIN,file-igamecj.akamaized.net
+
+# > YuanSouTi
+DOMAIN-SUFFIX,yuanfudao.com
+USER-AGENT,Solar
+
 # > Content Delivery Network
 DOMAIN-SUFFIX,ccgslb.com
 DOMAIN-SUFFIX,ccgslb.net
@@ -201,6 +206,9 @@ DOMAIN-SUFFIX,springsunday.net
 DOMAIN-SUFFIX,tjupt.org
 DOMAIN-SUFFIX,totheglory.im
 # > 
+DOMAIN,cn.download.nvidia.com
+DOMAIN-KEYWORD,amplifi
+
 DOMAIN-SUFFIX,343480.com
 DOMAIN-SUFFIX,agefans.tv
 DOMAIN-SUFFIX,baduziyuan.com
