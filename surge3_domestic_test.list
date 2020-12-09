@@ -163,6 +163,7 @@ DOMAIN,file-igamecj.akamaized.net
 
 # > WeLearn
 USER-AGENT,*WE Learn*
+USER-AGENT,*WE%20Learn*
 
 # > YuanSouTi
 DOMAIN-SUFFIX,yuanfudao.com
