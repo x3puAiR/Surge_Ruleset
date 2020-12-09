@@ -10,6 +10,6 @@ surge3_apple_services: Apple services, not include Apple China Map domains, Appl
 surge3_stream_services: International stream services.\
 surge3_reject: AD Block list. If you want to block more ads, enable rixCloud Rewrite module.\
 surge3_GFW: GFW list.\
-surge3_neteasemusic: Netease Music list, usually used to unblock netease music.\
+surge3_neteasemusic: Netease Music list, usually used to unblock netease music. To unblock netease music, you should place the related policy group over domestic group. \
 surge3_telegram: Telegram IP list.\
 surge3_local_network: LAN IP.
