@@ -67,6 +67,11 @@ USER-AGENT,*OneTravel*
 
 # > ChinaTelecom
 DOMAIN-SUFFIX,21cn.com
+
+# > Haidilao
+DOMAIN-SUFFIX,haidilao.com
+USER-AGENT,*haidilao*
+
 # > HunanTV
 DOMAIN-SUFFIX,hitv.com
 DOMAIN-SUFFIX,mgtv.com
