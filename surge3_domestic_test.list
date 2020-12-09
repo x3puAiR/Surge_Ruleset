@@ -48,6 +48,8 @@ DOMAIN-SUFFIX,biliapi.net
 DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,bilibili.tv
 DOMAIN-SUFFIX,hdslb.com
+
+DOMAIN,api.sobot.com
 # > ByteDance
 DOMAIN-SUFFIX,feiliao.com
 DOMAIN-SUFFIX,pstatp.com
