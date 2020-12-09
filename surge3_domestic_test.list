@@ -162,7 +162,7 @@ DOMAIN-SUFFIX,wechat.com
 DOMAIN,file-igamecj.akamaized.net
 
 # > WeLearn
-USER-AGENT,*WE*
+USER-AGENT,*WE Learn*
 
 # > YuanSouTi
 DOMAIN-SUFFIX,yuanfudao.com
