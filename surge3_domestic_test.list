@@ -161,6 +161,9 @@ DOMAIN-SUFFIX,tenpay.com
 DOMAIN-SUFFIX,wechat.com
 DOMAIN,file-igamecj.akamaized.net
 
+# > WeLearn
+USER-AGENT,*WE*
+
 # > YuanSouTi
 DOMAIN-SUFFIX,yuanfudao.com
 USER-AGENT,Solar*
