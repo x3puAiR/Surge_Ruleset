@@ -32,6 +32,7 @@ DOMAIN-SUFFIX,icloud.com.cn
 DOMAIN,gs-loc-cn.apple.com
 DOMAIN,apple.com.cn
 
+
 # >> Baidu
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,baidubcr.com
@@ -66,6 +67,13 @@ DOMAIN-SUFFIX,toutiao.com
 DOMAIN-SUFFIX,cctv.com
 DOMAIN-SUFFIX,cctvpic.com
 DOMAIN-SUFFIX,livechina.com
+
+# > Chaoxing
+
+DOMAIN-SUFFIX,chaoxing.com
+DOMAIN-SUFFIX,aichaoxing.com
+DOMAIN-SUFFIX,xuexi365.com
+DOMAIN-SUFFIX,easemob.com
 
 # >> ChinaNet
 DOMAIN-SUFFIX,189.cn
