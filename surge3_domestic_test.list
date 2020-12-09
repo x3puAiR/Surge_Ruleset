@@ -110,6 +110,10 @@ DOMAIN-SUFFIX,lofter.com
 DOMAIN-SUFFIX,netease.com
 DOMAIN-SUFFIX,ydstatic.com
 
+# > PDD
+DOMAIN-SUFFIX,pddpic.com
+DOMAIN-SUFFIX,pinduoduo.com
+
 # > Sina
 DOMAIN-SUFFIX,sina.com
 DOMAIN-SUFFIX,weibo.com
