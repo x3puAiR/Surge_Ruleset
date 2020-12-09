@@ -69,7 +69,6 @@ DOMAIN-SUFFIX,cctvpic.com
 DOMAIN-SUFFIX,livechina.com
 
 # > Chaoxing
-
 DOMAIN-SUFFIX,chaoxing.com
 DOMAIN-SUFFIX,aichaoxing.com
 DOMAIN-SUFFIX,xuexi365.com
@@ -181,8 +180,8 @@ DOMAIN-SUFFIX,jstarkan.com
 DOMAIN,vi.l.qq.com
 DOMAIN-SUFFIX,dns.pub
 DOMAIN-SUFFIX,doh.pub
+DOMAIN-SUFFIX,gtimg.cn
 DOMAIN-SUFFIX,qcloud.com
-
 
 # >> Tesla
 DOMAIN-SUFFIX,52tesla.com
