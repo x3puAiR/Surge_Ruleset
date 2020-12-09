@@ -63,7 +63,7 @@ DOMAIN-SUFFIX,didialift.com
 DOMAIN-SUFFIX,didiglobal.com
 DOMAIN-SUFFIX,udache.com
 USER-AGENT,*OneTravel*
-USER-AGENT,com.xiaojukeji.didi
+USER-AGENT,com.xiaojukeji.didi*
 # > ChinaTelecom
 DOMAIN-SUFFIX,21cn.com
 # > HunanTV
@@ -150,7 +150,7 @@ DOMAIN,file-igamecj.akamaized.net
 
 # > YuanSouTi
 DOMAIN-SUFFIX,yuanfudao.com
-USER-AGENT,Solar
+USER-AGENT,Solar*
 
 # > Content Delivery Network
 DOMAIN-SUFFIX,ccgslb.com
