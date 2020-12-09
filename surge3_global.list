@@ -65,6 +65,7 @@ DOMAIN-SUFFIX,ytimg.com
 DOMAIN,officecdn-microsoft-com.akamaized.net
 
 DOMAIN-KEYWORD,officecdn
+DOMAIN-SUFFIX,office.net
 
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,microsoftstore.com.cn
