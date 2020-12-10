@@ -242,6 +242,7 @@ DOMAIN-SUFFIX,sd-dykj.com
 DOMAIN-SUFFIX,yhdm.tv
 DOMAIN-SUFFIX,youkutv.cc
 # > Other
+USER-AGENT,SOUL*
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,10010.com
 DOMAIN-SUFFIX,10086.cn
@@ -269,12 +270,14 @@ DOMAIN-SUFFIX,camera360.com
 DOMAIN-SUFFIX,chaoxing.com
 DOMAIN-SUFFIX,chaoxing.com
 DOMAIN-SUFFIX,chinaso.com
+DOMAIN-SUFFIX,chongdiantou.com
 DOMAIN-SUFFIX,chuimg.com
 DOMAIN-SUFFIX,chunyu.mobi
 DOMAIN-SUFFIX,cmbchina.com
 DOMAIN-SUFFIX,cmbimg.com
 DOMAIN-SUFFIX,csair.com
 DOMAIN-SUFFIX,ctrip.com
+DOMAIN-SUFFIX,cyol.com
 DOMAIN-SUFFIX,dfcfw.com
 DOMAIN-SUFFIX,dji.net
 DOMAIN-SUFFIX,docschina.org
