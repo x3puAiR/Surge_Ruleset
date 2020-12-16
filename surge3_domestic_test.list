@@ -75,6 +75,9 @@ DOMAIN-SUFFIX,21cn.com
 DOMAIN-SUFFIX,haidilao.com
 USER-AGENT,*haidilao*
 
+# > Huawei
+DOMAIN-SUFFIX,huawei.com
+
 # > HunanTV
 DOMAIN-SUFFIX,hitv.com
 DOMAIN-SUFFIX,mgtv.com
