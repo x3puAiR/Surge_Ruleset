@@ -47,7 +47,6 @@ DOMAIN,tracklog.58.com
 DOMAIN,traffic.mogujie.com
 DOMAIN,wgo.mmstat.com
 DOMAIN,wmlog.meituan.com
-DOMAIN,wwads.cn
 DOMAIN-KEYWORD,adservice
 
 DOMAIN-SUFFIX,1391.com
@@ -221,6 +220,7 @@ DOMAIN-SUFFIX,usebutton.com
 DOMAIN-SUFFIX,voiceads.cn
 DOMAIN-SUFFIX,vrtcal.com
 DOMAIN-SUFFIX,webspectator.com
+DOMAIN-SUFFIX,wwads.cn
 DOMAIN-SUFFIX,xadchina.cn
 DOMAIN-SUFFIX,xdrig.com
 DOMAIN-SUFFIX,yldbt.com
