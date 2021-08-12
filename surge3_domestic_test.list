@@ -205,6 +205,8 @@ DOMAIN-SUFFIX,sogoucdn.com
 DOMAIN-SUFFIX,jstarkan.com
 
 # > Tencent
+
+USER-AGENT,*MicroMessenger*
 USER-AGENT,MicroMessenger%20Client
 USER-AGENT,WeChat*
 USER-AGENT,%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1*
@@ -317,7 +319,6 @@ DOMAIN-SUFFIX,sd-dykj.com
 DOMAIN-SUFFIX,yhdm.tv
 DOMAIN-SUFFIX,youkutv.cc
 # > Other
-USER-AGENT,MicroMessenger*
 USER-AGENT,SOUL*
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,10010.com
