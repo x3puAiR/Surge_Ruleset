@@ -1,0 +1,5 @@
+#!name=Enable Hybrid and Game optimize
+
+[General]
+all-hybrid = true
+udp-priority = true
