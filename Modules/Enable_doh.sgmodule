@@ -1,5 +1,5 @@
 #!name=Enable DNS-Over-HTTPS
 
 [General]
-dns-server = 119.29.29.29, 119.28.28.28, 223.5.5.5, 223.6.6.6
+dns-server = 119.29.29.29, 119.28.28.28, 223.5.5.5, 223.6.6.6, 182.254.116.116
 doh-server = https://dns.pub/dns-query, https://doh.pub/dns-query, https://dns.alidns.com/dns-query
