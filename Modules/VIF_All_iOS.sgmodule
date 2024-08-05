@@ -1,0 +1,8 @@
+#!name=Route All through vif
+#!desc=Route all connections through Surge VIF to ensure APNs, VoLTE, WiFi Calling, etc.
+
+[General]
+always-real-ip: .lan, .pub.3gppnetwork.org
+include-all-networks = true
+include-apns = true
+include-cellular-services = true
