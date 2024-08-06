@@ -1,2 +1,5 @@
-[SSID settings]
+#!name=Cellular Suspending
+#!desc=Suspend iOS Surge when under cellular network.
+
+[SSID setting]
 TYPE:CELLULAR suspend=true
