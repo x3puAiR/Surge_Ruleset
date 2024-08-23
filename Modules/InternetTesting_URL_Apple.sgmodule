@@ -1,5 +1,6 @@
 #!name=Test URL Modification
 #!desc=Change default connectivity test url to Apple.com
 
+[General]
 internet-test-url = captive.apple.com
 proxy-test-url = captive.apple.com
