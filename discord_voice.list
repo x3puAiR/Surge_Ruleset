@@ -1,0 +1,6 @@
+# Discord Voice Servers in HK and JP
+IP-CIDR,35.212.0.0/17,no-resolve
+IP-CIDR,35.213.0.0/16,no-resolve
+IP-CIDR,35.214.0.0/16,no-resolve
+IP-CIDR,35.215.0.0/16,no-resolve
+IP-CIDR,35.217.29.217/32,no-resolve
